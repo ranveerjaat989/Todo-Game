@@ -1,0 +1,24 @@
+    
+input{
+    margin-right: 1.4rem;
+    border-radius: 0.2rem;
+    padding: 0.3rem 1rem;
+    width: 13rem;
+}
+.Add-task{
+    border-radius: 0.3rem;
+    padding: 0.3rem 1rem;
+}
+ul{
+  
+    
+    width: 100%;
+}
+li{
+    line-height: 2rem;
+    font-size: 1.3rem;
+}
+.delete{
+    margin-left: .5rem;
+    border-radius: 0.2rem;
+}
